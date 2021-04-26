@@ -9,7 +9,7 @@
 
 * How to use data structures, and how to create them using Typescript
 
-## Lest'go 🚀
+## Let's go 🚀
 
 * When we make quality software we must use data structures to store the information with which we are going to work, I hope this repository helps you to create the most used data structures. 
 
