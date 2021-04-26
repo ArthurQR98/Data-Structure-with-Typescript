@@ -1,3 +1,10 @@
+<h1 align="center">DOAPPS</h1>
+
+<div align="center">
+  <img src="assets/logo.png" alt="DOAPPS logo" width="400"/>
+  <br>
+</div>
+
 # Data Structure with Typescript
 
 * How to use data structures, and how to create them using Typescript
